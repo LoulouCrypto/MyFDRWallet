@@ -1,6 +1,6 @@
 <h2 align="center">
   Send, Stake and Receive with FDR's most universal wallet.
-  A fork For testing, not ofr use for now
+  A fork For testing, not for use.
 </h2>
 
 <p align="center">
