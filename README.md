@@ -1,5 +1,6 @@
 <h2 align="center">
-  Send, Stake and Receive with PIVX's most universal wallet.
+  Send, Stake and Receive with FDR's most universal wallet.
+  A fork For testing, not ofr use for now
 </h2>
 
 <p align="center">
